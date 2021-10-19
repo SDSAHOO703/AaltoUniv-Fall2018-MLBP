@@ -1,2 +1,4 @@
 # AaltoUniv-Fall2018-MLBP
-Files related to the data analysis project of the Machine Learning Basic Principles course at Aalto University are kept here.
+
+
+I am keeping here all the files of the data analysis project I worked on for the course Machine Learning Basic Principles during the Fall 2018 semester at Aalto University.
